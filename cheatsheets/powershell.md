@@ -64,7 +64,6 @@ PowerShell is an essential tool for:
 
 ### Basic Commands to Get Started
 
-- **`Get-Content`**: Gets the contents of a file.
 - **`Get-Command`**: Lists all available commands.
 - **`Get-Help`**: Provides help information for commands.
 - **`Get-Process`**: Displays all running processes.
